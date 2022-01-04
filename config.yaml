@@ -1,0 +1,5 @@
+gamePath: E:\SteamLibrary\steamapps\common\Titanfall2 #Change this to your game path, please make sure you are already put the NorthStar files in the root path of the game. 
+serverName: AK's server #Change this to your server's name.
+count: 10 #The amount you want to deploy.
+describe: "This is AnalogKnight's server. QQ group: 806318056 , Discord: https://discord.gg/3j58Snvpxd ." #Server describe.
+hostName: "https://northstar.tf" #Master server address, if you are in China, change this to: "tf2cn.wolf109909.top"
